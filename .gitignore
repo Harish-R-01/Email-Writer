@@ -1,0 +1,10 @@
+/target/
+/.idea/
+/.vscode/
+/*.iml
+*.class
+*.log
+*.jar
+.env
+application.properties
+application.yml
