@@ -1,8 +1,8 @@
-# 📧 Email Writer App (Spring Boot + Gemini API)
+#  Email Writer App (Spring Boot + Gemini API)
 
 An AI-powered email reply generator that helps users create context-aware email responses in different tones using Google's Gemini API. The application provides a simple interface for generating professional, friendly, or casual email replies instantly.
 
-## 🚀 Features
+##  Features
 
 * Generate AI-powered email replies from email content
 * Support for multiple response tones:
@@ -14,7 +14,7 @@ An AI-powered email reply generator that helps users create context-aware email 
 * Real-time integration with Google Gemini API
 * Full-stack architecture with React and Spring Boot
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -34,7 +34,7 @@ An AI-powered email reply generator that helps users create context-aware email 
 
 * Google Gemini API
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Email-Writer
@@ -43,7 +43,7 @@ Email-Writer
 └── email-writer-ext     # Chrome Extension
 ```
 
-## ⚙️ Setup & Run
+##  Setup & Run
 
 ### Backend
 
@@ -60,7 +60,7 @@ npm install
 npm run dev
 ```
 
-## 🔑 Environment Variable
+##  Environment Variable
 
 ```env
 GEMINI_API_KEY=your_api_key
